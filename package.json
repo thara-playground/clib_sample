@@ -1,0 +1,11 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "repo": "mattn/helloworld",
+  "dependencies": {
+    "stephenmathieson/http-get.c": "0.1.0",
+    "kgabis/parson": "*",
+    "Constellation/console-colors.c": "1.0.1"
+  },
+  "install": "make install"
+}
